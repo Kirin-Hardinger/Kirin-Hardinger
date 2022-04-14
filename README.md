@@ -1,4 +1,4 @@
-Hey there! My name is King. I'm a student at the University of Nevada Reno in the computer science and engineering program, graduating in May of 2024.
+Hey there! My name is Kirin. I'm a student at the University of Nevada Reno in the computer science and engineering program, graduating in May of 2024.
 
 I love video games and it's my goal to be a game developer as a full-time career. I particularly enjoy casual simulation/management games like Stardew Valley and Graveyard Keeper. There are some exceptions to this; I'm also a huge fan of Skyrim and DOOM. Personally, I'm only planning on developing casual indie games.
 
